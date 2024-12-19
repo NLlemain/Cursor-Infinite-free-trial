@@ -5,10 +5,7 @@ This Python script helps to **securely delete** certain traces of the Cursor app
 ## Features
 - **Reset Free Trial**: Clears certain system files associated with the Cursor free trial to reset it.
 - **Clean Traces**: Securely deletes various application traces, including app data, temp files, and more.
-## Requirements
-- **Python 3.x** installed on your system.
-- **Administrator Access**: The script requires admin privileges to delete protected files and directories.
-
+  
 ## Installation
 1. **Clone this repository** or download the script file.
 2. Ensure that **Python 3.x** is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
