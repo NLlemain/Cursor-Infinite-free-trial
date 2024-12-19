@@ -1,0 +1,1 @@
+# Cursor-Infinite-free-trial
